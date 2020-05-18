@@ -1,0 +1,11 @@
+Mount:
+- constructor
+- render
+- componentDidMount
+
+Update:
+- render
+- componentDidUpdate
+
+Unmount:
+-componentDidUnmount
